@@ -4,8 +4,9 @@
 
 building ai and ml systems end to end, from training models to the backend, infrastructure, and hardware they run on.
 
+Email: khoahonguyen0210@gmail.com
+
 <a href="https://www.linkedin.com/in/khoa-ho-nguyen"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-<a href="mailto:khoahonguyen0210@gmail.com"><img src="https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
 <a href="https://github.com/khoahonguyen0210"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
 
 <br clear="right" />
@@ -156,8 +157,9 @@ working with a Texas A&M Coding Club team on a map-based app that helps students
 
 <div align="center">
 
+Email: khoahonguyen0210@gmail.com
+
 <a href="https://www.linkedin.com/in/khoa-ho-nguyen"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-<a href="mailto:khoahonguyen0210@gmail.com"><img src="https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
 <a href="https://github.com/khoahonguyen0210"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
 
 </div>
