@@ -97,6 +97,20 @@ control your mouse with hand gestures through a webcam. it tracks 21 points on y
 <tr>
 <td width="100%" valign="top">
 
+#### [coral ↗](https://github.com/Andy-C18/Coral) &nbsp;·&nbsp; co-project manager &nbsp;<sub>location-based activity discovery · Texas A&amp;M Coding Club</sub>
+
+co-leading a Texas A&M Coding Club project team as co-project manager, building a map-based app that helps students find people to do activities with: post an activity at a real place, discover nearby ones, and request to join. I plan the roadmap, split the work across the team, and keep the frontend, backend, and database pieces moving together.
+
+`react` `typescript` `vite` `node.js` `fastify` `postgresql` `docker`
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="100%" valign="top">
+
 #### [HowdyHack - rollwatch ↗](https://github.com/khoahonguyen0210/rollwatch) &nbsp;<sub>baby roll alert</sub>
 
 built with a team of four at HowdyHack, Texas A&M's hackathon, a sensor pod for a baby's onesie that notices when the baby rolls onto their stomach, sounds an alarm, and buzzes the parent's phone. it is a prototype only, not a medical device.
@@ -130,20 +144,6 @@ collaborating with an Aggie Data Science Club team on an industry-sponsored mach
 collaborating with a Texas A&M Coding Club team to learn GPU programming by writing CUDA C++ versions of compute-heavy tasks, then profiling and tuning them to run faster than the CPU version.
 
 `cuda` `c++` `gpu profiling` `benchmarking`
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="100%" valign="top">
-
-#### coral &nbsp;<sub>location-based activity discovery · Texas A&amp;M Coding Club</sub>
-
-working with a Texas A&M Coding Club team on a map-based app that helps students find people to do activities with: post an activity at a real place, discover nearby ones, and request to join.
-
-`react` `typescript` `vite` `node.js` `fastify` `postgresql` `docker`
 
 </td>
 </tr>
